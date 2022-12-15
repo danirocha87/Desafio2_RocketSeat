@@ -1,0 +1,100 @@
+body{
+  font-family: "Dosis" sans-serif;
+  text-align: center;
+  margin: 0;
+}
+.principal{
+width: 592px;
+margin: 0 auto 72px;
+}
+
+.principal img{
+  margin-bottom: 72px;
+  margin-top: 54px;
+  width: 350px;
+  height: 238px;
+  left: 337px;
+  top: 64px;
+
+
+}
+h1{
+  color:#3F3D56 ;
+  height: 40px;
+  font-family: 'Dosis';
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 40px;
+  width: 540px;
+  left: 265px;
+  text-align: center;
+  font-style: normal;
+}
+h1 span{
+  color: #EE24FF;
+
+}
+
+p{
+width: 540px;
+height: 107px;
+left: 265px;
+top: 380px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+color: #828282;;
+}
+
+.paragrafo2{
+width: 540px;
+height: 107px;
+left: 265px;
+top: 200px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+text-align: center;
+color: #828282;;
+}
+
+#line{
+  width: 391px;
+  height: 0px;
+  border: 1px solid #ECEFF2;
+  margin: auto;
+
+}
+
+#onda{
+  
+ margin:auto;
+  
+}
+
+#footer{
+    color: #3F3D56;
+    font-size: 15px;
+    height: 15.17px;
+    font-family: 'Open Sans';
+    width: 66px;
+    height: 15.17px;
+    left: 500px;
+    top: 630px;
+    margin: auto;
+    inline-size: auto;
+  
+}
+
+#footer a + a {
+  margin-left: 28px;
+}
+
+.negrito{
+  color: #3F3D56;
+}
